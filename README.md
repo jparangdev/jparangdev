@@ -1,4 +1,6 @@
 ## Hi 
+
+<a href="https://github.com/jparangdev"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jparangdev&layout=compact&theme=nord&hide_border=true" /></a>
 <!--
 **jparangdev/jparangdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
